@@ -1,0 +1,48 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"Project-Id-Version: woocommerce-roistat\n"
+"Language: ru\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+#: includes/class-wc-rs-settings-page.php:28
+msgid "Project Id"
+msgstr "Номер проекта"
+
+#: includes/class-wc-rs-settings-page.php:14
+msgid "Roistat integration"
+msgstr "Интеграция с Roistat"
+
+#: woocommerce-roistat.php:127
+msgid "Please install and activate %sWooCommerce%s for integration with Roistat!"
+msgstr "Для интеграции с Roistat необходимо установить %sWooCommerce%s"
+
+#: woocommerce-roistat.php:119
+msgid "Please update WooCommerce to <strong>version 2.2.0 or higher</strong> in order for the Roistat integration extension to work!"
+msgstr "Для корректной работы модуля интеграции Roistat, необходимо обновить WooCommerce <strong>до версии 2.2.0 и выше</strong>"
+
+#. Plugin Name of the plugin/theme
+msgid "Integration with Roistat"
+msgstr "Интеграция с Roistat"
+
+#. Plugin URI of the plugin/theme
+msgid "http://roistat.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Roistat is a transperent business analytics system."
+msgstr "Roistat — cистема сквозной бизнес-аналитики"
+
+#. Author of the plugin/theme
+msgid "Roistat"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://roistat.com"
+msgstr ""
